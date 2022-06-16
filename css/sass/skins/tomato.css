@@ -1,0 +1,129 @@
+body {
+  color: #222;
+  letter-spacing: 1px; }
+
+a {
+  color: #FF6347; }
+
+p,
+body .main_footer,
+.s_about li {
+  color: #6e6e6e; }
+
+.main_footer {
+  letter-spacing: 0px; }
+
+.main_footer .social_wrap a {
+  color: #FF6347; }
+
+.color_element {
+  color: #FF6347; }
+
+.color_bg {
+  background-color: #FF6347; }
+
+.color_border {
+  border-color: #FF6347; }
+
+.main_color_bg {
+  background-color: #222; }
+
+.bg_light {
+  background-color: #FAFAFA; }
+
+.bg_grey {
+  background-color: #f1f1f1; }
+
+.bg_dark {
+  background-color: #222;
+  color: #fff; }
+  .bg_dark .s_descr::after {
+    background-color: #fff; }
+  .bg_dark a {
+    color: #fff; }
+  .bg_dark h3, .bg_dark h2, .bg_dark p {
+    color: #fff; }
+
+svg {
+  fill: #FAFAFA; }
+
+.top_mnu a:hover {
+  color: #FF6347; }
+.top_mnu a {
+  letter-spacing: 4px; }
+
+.top_text p {
+  color: #FAFAFA;
+  letter-spacing: 5px; }
+
+.s_descr {
+  letter-spacing: 5px; }
+  .s_descr::after {
+    background-color: #222; }
+
+section h3 {
+  letter-spacing: 3px;
+  color: #222; }
+
+.s_about,
+.s_avtor {
+  letter-spacing: 1px; }
+  .s_about p:nth-child(even),
+  .s_avtor p:nth-child(even) {
+    color: #FF6347; }
+
+.personal_header {
+  letter-spacing: 4px; }
+
+.resume_container h3 {
+  color: #222;
+  letter-spacing: 1px;
+  font-size: 16px;
+  font-weight: 600; }
+
+.resume_item .year {
+  background-color: #FF6347; }
+.resume_item .resume_description {
+  letter-spacing: 1px; }
+
+.s_portfolio li {
+  letter-spacing: 2px;
+  color: #939393; }
+.s_portfolio li.active {
+  color: #ffffff;
+  border-bottom: 1px solid #FF6347; }
+
+.portfolio_item .port_item_cont a {
+  border-color: #FF6347;
+  color: #FF6347; }
+
+.contacts_icon {
+  color: #FF6347; }
+
+.text-danger {
+  color: #FF6347; }
+
+form input:focus,
+form textarea:focus {
+  border: 1px solid #FF6347; }
+form input,
+form textarea {
+  letter-spacing: 2px; }
+form button {
+  background-color: #FF6347;
+  letter-spacing: 2px; }
+form .form-group {
+  letter-spacing: 2px;
+  color: #6e6e6e; }
+
+.appeal p {
+  color: white;
+  letter-spacing: 1px; }
+
+.section_header h2 {
+  color: #FF6347; }
+
+.copy {
+  color: #FAFAFA; }
+
+/*# sourceMappingURL=tomato.css.map */
